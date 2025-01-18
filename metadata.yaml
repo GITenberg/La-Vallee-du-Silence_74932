@@ -1,0 +1,47 @@
+_repo: La-Vallee-du-Silence_74932
+_version: 0.0.1
+alternative_title: The Valley of Silent Men. French
+contributor:
+  translator:
+    agent_name: Postif, Louis
+    birthdate: 1887
+    deathdate: 1942
+    gutenberg_agent_id: '53319'
+    url: http://www.gutenberg.org/2009/agents/53319
+    wikipedia: https://fr.wikipedia.org/wiki/Louis_Postif
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    alias: Curwood, James-Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: https://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: ''
+gutenberg_issued: '2024-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74932'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k97739044
+pgterms:marc905: 20241213122300curwood
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bPlon, $c1928, pubdate 1930.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Royal North West Mounted Police (Canada) -- Fiction'
+- !lcsh 'Mounted police -- Fiction'
+- !lcsh 'Athabasca (Alta.) -- Fiction'
+- !lcsh 'Athabasca River Valley (Alta.) -- Fiction'
+- !lcsh 'Peace-Athabasca Delta (Alta.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: La Vallée du Silence
+url: http://www.gutenberg.org/ebooks/74932
