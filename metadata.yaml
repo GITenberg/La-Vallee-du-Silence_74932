@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '53319'
     url: http://www.gutenberg.org/2009/agents/53319
     wikipedia: https://fr.wikipedia.org/wiki/Louis_Postif
+covers:
+- cover_type: archival
+  image_path: 74932-h/images/cover.jpg
 creator:
   author:
     agent_name: Curwood, James Oliver
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1487
     wikipedia: https://en.wikipedia.org/wiki/James_Oliver_Curwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74932#La-Vallee-du-Silence
 gutenberg_issued: '2024-12-18'
 gutenberg_type: Text
 identifiers:
